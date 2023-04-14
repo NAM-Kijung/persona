@@ -98,7 +98,7 @@ const FaceDetect = (props) => {
   const [partnum,setpartnum] =useState(0);
   
 
-  const S3_BUCKET = "S3_BUCKET";
+  const S3_BUCKET = "step-up-bucket";
   const ACCESS_KEY = "AKIA2A2FFZJ6LLZ73RM7";
   const SECRET_ACCESS_KEY = "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";
   const REGION = "ap-northeast-2";

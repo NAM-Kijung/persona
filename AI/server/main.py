@@ -17,7 +17,7 @@ from kiwipiepy import Kiwi
 from starlette.middleware.cors import CORSMiddleware
 from pydub import AudioSegment;
 
-openai.api_key = "openai.api_key"
+openai.api_key = "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"
 # origins = ["*"]
 
 origins = ["http://localhost:3000", "https://j8b301.p.ssafy.io", "http://j8b301.p.ssafy.io:3000"]
