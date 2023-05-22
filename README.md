@@ -175,4 +175,4 @@
 ![KakaoTalk_20230507_223428743](https://github.com/NAM-Kijung/persona/assets/107738803/79bdfe8a-b869-4046-af53-b99af4917ea8)
 ![KakaoTalk_20230507_224158010](https://github.com/NAM-Kijung/persona/assets/107738803/39a88ab8-2a90-4b20-a9ff-8649423a3501)
 ![KakaoTalk_20230507_224434678](https://github.com/NAM-Kijung/persona/assets/107738803/cb882de3-d752-4867-a190-9645ebefac28)
-![KakaoTalk_20230507_224911513](https://github.com/NAM-Kijung/persona/assets/107738803/d923da87-0fb9-478e-bf16-e2d4a425f647)
+![KakaoTalk_20230507_224911513](https://github.com/NAM-Kijung/persona/assets/107738803/d923da87-0fb9-478e-bf16-e2d4a425f647){: width="100px" height="100px"}
