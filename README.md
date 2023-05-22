@@ -77,7 +77,7 @@
 틀린부분을 체크하여 보여줌
 
 ![Untitled](images/013.png)
-![Untitled](images/028.png)
+![Untitled](images/028.PNG)
 
 ## 기대 효과
 
